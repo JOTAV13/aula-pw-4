@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.texto{
+    width: 80%;
+    margin: 0 auto;
+    background-color: #ff9500;
+    border: 5px solid black;
+}
+h1{
+    text-align: center;
+}
+.texto h1{
+    padding: 30%;
+    color: #00539f;
+    text-align: left;
+}
+img{
+    display: block;
+    margin: auto;
+}
